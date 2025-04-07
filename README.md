@@ -59,3 +59,25 @@ Licensed under the  **EUPL**  (the "License"); you may not use this file except 
 You may obtain a copy of the License at  [https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
 
 Questions regarding the Diia project, the License and any re-use should be directed to [modt.opensource@thedigital.gov.ua](mailto:modt.opensource@thedigital.gov.ua).
+Suggested changes:
+
+Add more details about setting up Java 11:
+
+Provide instructions on how to download and set up Java 11 for different operating systems.
+
+Add clear Android Studio and SDK setup instructions:
+
+If possible, specify the SDK versions and how to set them up.
+
+Add a contributor section:
+
+Describe how to make a pull request, where to find beginner issues, and how to collaborate with the team.
+
+## System requirements
+- Java 11 (download from [official site](https://adoptopenjdk.net/)).
+- Android Studio version X.X.
+
+## Setting up the environment
+1. Download and install Android Studio from the official site.
+2. Install the Android SDK using the SDK Manager.
+3. Ensure you are using Java 11.
